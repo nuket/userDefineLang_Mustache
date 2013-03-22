@@ -1,5 +1,5 @@
-User-Defined Language file for Mustache
-=======================================
+Syntax highlighting for Mustache Templates in Notepad++
+=======================================================
 
 Looks like this:
 
