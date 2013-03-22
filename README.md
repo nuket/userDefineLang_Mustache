@@ -1,4 +1,4 @@
-Syntax highlighting for Mustache Templates in Notepad++
+Syntax highlighting for Mustache templates in Notepad++
 =======================================================
 
 Looks like this:
